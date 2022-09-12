@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# react-dnd-treeview Select Example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hoping to use this with [Archieml](https://github.com/newsdev/archieml-js) in the right pane
 
 ## Available Scripts
 
