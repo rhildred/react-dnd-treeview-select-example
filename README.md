@@ -1,6 +1,18 @@
 # react-dnd-treeview Select Example
 
-Hoping to use this with [Archieml](https://github.com/newsdev/archieml-js) in the right pane
+Hoping to use this with [Archieml](https://github.com/newsdev/archieml-js) in the right pane. Bootstrapping with:
+
+```
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+const oRoot = document.getElementById('root');
+const sString = oRoot.getAttribute("data-id");
+ReactDOM.render(
+  React.createElement('div', null, `Hello React${sString}`),
+  oRoot
+);
+```
 
 ## Available Scripts
 
