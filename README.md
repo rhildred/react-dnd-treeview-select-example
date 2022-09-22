@@ -2,6 +2,9 @@
 
 Hoping to use this with [Archieml](https://github.com/newsdev/archieml-js) in the right pane. Bootstrapping with:
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/rhildred/react-dnd-treeview-select-example
+)
+
 ```
 import React from 'react'
 import ReactDOM from 'react-dom'
