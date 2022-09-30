@@ -19,9 +19,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-app-rewired start --transformIgnorePatterns '/node_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
-    "build": "react-app-rewired build --transformIgnorePatterns '/node_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
-    "test": "react-app-rewired test --transformIgnorePatterns '/node_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
+    "start": "react-app-rewired start --transformIgnorePatterns '/turbo_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
+    "build": "react-app-rewired build --transformIgnorePatterns '/turbo_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
+    "test": "react-app-rewired test --transformIgnorePatterns '/turbo_modules/(?!react-dnd|core-dnd|@react-dnd|dnd-core|react-dnd-html5-backend)'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
